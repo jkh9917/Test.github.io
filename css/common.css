@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+ul{
+  list-style-type: none;
+}
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color:#444444;
+}
+.clear{
+ clear:both;
+}
+/*-------헤더------*/
+header{
+  height:100px;
+  background-color:#222222;
+}
+header #top{
+  width:1200px;
+  margin:0 auto;
+  /*border:solid 1px #0000ff; */
+  position: fixed;
+ top: 0;
+ /* width: 100% */
+ left: 0;
+ right: 0;
+}
+header #logo{
+  float:left;
+  margin:18px 0 0 0;
+}
+/* 상단 메뉴 */
+header #top_menu{
+  float:right;
+  margin-top:40px;
+}
+header #top_menu a:link{
+  font-size:17px;
+  color:#888888;
+}
+header #top_menu a:visited{
+  font-size:17px;
+  color:#888888;
+}
+header #top_menu a:hover{
+  font-size:18px;
+  color:#00FFC4;
+}
+header #top_menu a:active{
+  font-size:18px;
+  color:#00FFC4;
+}
+
+header #top_menu li{
+  display:inline;
+  margin-left:25px;
+}
+footer {
+  height:80px;
+  margin-top:655px;
+  text-align: center;
+  background-color: #999999;
+}
+footer #Copyright{
+  margin-top: 30px;
+  font-size: 15px;
+}

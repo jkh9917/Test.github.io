@@ -1,0 +1,35 @@
+
+	#content1 h3{
+		border-style:none;
+		background-color:transparent;
+		text-indent:0px;
+		margin:0px;
+		padding:0px;
+	}
+
+
+	#content1{
+		width:1200px;
+
+	}
+	#content1 h3{
+		color: #fff;
+		font-family: verdana, sans-serif;
+		font-size: 26px;
+		margin-top:150px;
+
+
+	}
+
+
+		#content1 img{
+		width:400px;
+		height:300px;
+		margin: 0px;
+	}
+
+
+  .element{
+    margin-top: 150px;
+    
+  }

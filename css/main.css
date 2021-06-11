@@ -1,0 +1,28 @@
+/*메인 콘텐츠*/
+body{
+  font-family:"맑은 고딕","돋움";
+  font-size:12px;
+  color:#444444;
+  background-color:#222222;
+
+}
+section#main{
+  width:990px;
+  margin:auto;
+
+}
+section #part1{
+  width:500px;
+  float:left;
+  margin-top:250px;
+  font-weight:normal;
+  font-size: 45px;
+  color:#ffffff;
+}
+section #part2{
+
+  float:right;
+  margin-top:60px;
+
+
+}
